@@ -1,22 +1,7 @@
 #include <bits/stdc++.h>
 using namespace std;
 
-class solution
-{
 
-    vector<int> sort123Arrya(vector<int> arr, int n)
-    {
-        int sum=0 ;
-
-    }
-};
-int main()
-{
-
-    return 0;
-}
-
-/*
 
 
 #include <bits/stdc++.h>
@@ -54,4 +39,3 @@ int main()
     cout << endl;
     return 0;
 }
-*/
