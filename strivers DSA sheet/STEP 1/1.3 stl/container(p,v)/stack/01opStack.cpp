@@ -10,9 +10,9 @@ int main(){
     st.push(4);
     st.push(5);
     st.push(6);
-
+    st.push(3);
     st.emplace(8);//similar to push
-
+   
     cout<<st.top();//this only prints the elemet at top
     cout<<"\nchek whether the stack is empty: "<<st.empty();
     

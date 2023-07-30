@@ -19,7 +19,7 @@ int main(){
 
 cout<<" find 4";
     auto t=st.find(4);
-  
+
 st.erase(1);//deletes and maintains the sorted order
 
     for(auto it: st)
