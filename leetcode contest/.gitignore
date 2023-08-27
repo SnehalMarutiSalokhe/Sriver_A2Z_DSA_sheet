@@ -1,0 +1,23 @@
+# Ignore compiled binaries and object files
+*.o
+*.exe
+*.out
+*.dll
+
+# Ignore build directories
+build/
+bin/
+
+# Ignore generated files
+generated/
+
+# Ignore editor-specific files
+.vscode/
+.idea/
+
+# Ignore OS-specific files
+Thumbs.db
+.DS_Store
+
+# Ignore temporary files
+*~
